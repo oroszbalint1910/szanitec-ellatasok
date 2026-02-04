@@ -12,6 +12,7 @@ const ellatasok = [
       "/me leöblíti a sebet.",
       "/do A bőr kipirult, de nem mély."
     ]
+   },
     {
     cim: "Testierőszak",
     szoveg: [
@@ -21,3 +22,4 @@ const ellatasok = [
   },
   }
 ];
+
