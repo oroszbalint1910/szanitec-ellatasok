@@ -1,7 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background: #f2f4f7;
-  background-color: #121212; /* nagyon sötét szürke/fekete */
+  background: #121212;
   color: #ffffff; /* a szöveg legyen világos, hogy látszódjon */
   margin: 0;
   padding: 40px;
@@ -24,5 +23,6 @@ h1 {
   margin-top: 0;
   color: #2563eb;
 }
+
 
 
